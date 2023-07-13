@@ -203,14 +203,12 @@ def cracker(uid,pwx,tl):
 			else:
 				continue
 		loop+=1
-		sys.stdout.write(f"\r {Z}[{H}{loop}{P}-{M}{tl}{Z}] {Z}[{H}{len(oks)}{B}-{K}{len(cps)}{Z}] {Z}[{M}{'{:.1%}'.format(loop/int(tl))}{Z}]  \r"),
-		sys.stdout.flush()
+		sys.stdout.write(f"\r {Z}[{H}{loop}{P}-{M}{tl}{Z}] {Z}[{H}{len(oks)}{B}-{K}{len(cps)}{Z}] {Z}[{M}{'{:.1%}'.format(loop/int(tl))}{Z}]  \r
 	except:
 		pass
 
 
 
 
-if __name__=='__main__':
-	D-N-H-BOYS ()
+if 
 
